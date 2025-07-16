@@ -1,0 +1,256 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\giaco\\source\\repos\\App1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\appshell.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\aboutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\aboutpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\viewmodels\\itemsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\page3.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\page1.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\page2.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\obj\\Debug\\netstandard2.0\\Views\\Page2.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App1\\App1\\obj\\Debug\\netstandard2.0\\Views\\Page2.xaml.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\page2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|c:\\users\\giaco\\source\\repos\\app1\\app1\\app1\\views\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F277AF7-90C7-441B-AE0F-6B8B906669AF}|App1\\App1\\App1.csproj|solutionrelative:app1\\app1\\views\\page3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\AppShell.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\AppShell.xaml",
+              "RelativeToolTip": "App1\\App1\\AppShell.xaml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAApwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T12:50:23.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AboutPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\AboutPage.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\AboutPage.xaml.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\AboutPage.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\Views\\AboutPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:49:52.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AboutPage.xaml",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\AboutPage.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\AboutPage.xaml",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\AboutPage.xaml",
+              "RelativeToolTip": "App1\\App1\\Views\\AboutPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T12:49:10.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ItemsViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\ViewModels\\ItemsViewModel.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\ViewModels\\ItemsViewModel.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\ViewModels\\ItemsViewModel.cs",
+              "RelativeToolTip": "App1\\App1\\ViewModels\\ItemsViewModel.cs",
+              "ViewState": "AgIAAOoQAAAAAAAAAAAiwPUQAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:46:49.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "App1\\App1\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:46:37.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\AppShell.xaml.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\AppShell.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:46:16.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Page2.xaml.g.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\obj\\Debug\\netstandard2.0\\Views\\Page2.xaml.g.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\obj\\Debug\\netstandard2.0\\Views\\Page2.xaml.g.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\obj\\Debug\\netstandard2.0\\Views\\Page2.xaml.g.cs",
+              "RelativeToolTip": "App1\\App1\\obj\\Debug\\netstandard2.0\\Views\\Page2.xaml.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:44:19.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Page3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page3.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\Page3.xaml.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page3.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\Views\\Page3.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:42:23.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Page2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page2.xaml.cs",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\Page2.xaml.cs",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page2.xaml.cs",
+              "RelativeToolTip": "App1\\App1\\Views\\Page2.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:42:12.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Page3.xaml",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page3.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\Page3.xaml",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page3.xaml",
+              "RelativeToolTip": "App1\\App1\\Views\\Page3.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T12:42:03.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Page2.xaml",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page2.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\Page2.xaml",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page2.xaml",
+              "RelativeToolTip": "App1\\App1\\Views\\Page2.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T12:40:34.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page1.xaml",
+              "RelativeDocumentMoniker": "App1\\App1\\Views\\Page1.xaml",
+              "ToolTip": "C:\\Users\\giaco\\source\\repos\\App1\\App1\\App1\\Views\\Page1.xaml",
+              "RelativeToolTip": "App1\\App1\\Views\\Page1.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-12T12:37:07.638Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
